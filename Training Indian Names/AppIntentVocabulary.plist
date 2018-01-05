@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ParameterVocabularies</key>
+	<array>
+		<dict>
+			<key>IntentName</key>
+			<string></string>
+			<key>IntentExamples</key>
+			<array>
+				<string></string>
+			</array>
+		</dict>
+		<dict>
+			<key></key>
+			<string>INStartWorkoutIntent.workoutName</string>
+			<key>ParameterVocabulary</key>
+			<array>
+				<dict>
+					<key>VocabularyItemIdentifier</key>
+					<string>Shanmukesh</string>
+					<key>VocabularyItemSynonyms</key>
+					<array>
+						<dict>
+							<key>VocabularyItemPhrase</key>
+							<string>Hello Shanmukesh</string>
+							<key>VocabularyItemPronunciation</key>
+							<string>Shan mu kesh</string>
+						</dict>
+					</array>
+				</dict>
+			</array>
+			<key>ParameterNames</key>
+			<array>
+				<string></string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
