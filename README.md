@@ -2,7 +2,7 @@
 
 What is VocabSync? 
 
-VocabSync is a Speech-To-Text application that was developed to enable Apple's Siri to correctly spell out foreign names and names that are inaudible or long. Siri doesn't have the capability to understand any name or word that exists. Often, it gives the user problems, by repeating the word incorrectly or spelling it out wrong. Hence, VocabSync solves this issue and makes user interaction with Siri easy.
+VocabSync is a Speech-To-Text application that was developed to help Apple's Siri correctly spell out foreign names and names that are inaudible or long. Siri doesn't have the capability to understand any name or word that exists. Often, it gives the user problems, by repeating the word incorrectly or spelling it out wrong. Hence, VocabSync solves this issue and makes user interaction with Siri easy.
 
 How it Works?
 
