@@ -24,3 +24,4 @@ Limitations: Currently Apple has put some limitations on third applications usin
 
 Resources: 
 1. Apple Developer Documentation: https://developer.apple.com/documentation
+1. Link to Apple's SpeakToMe: https://developer.apple.com/library/content/samplecode/SpeakToMe/Introduction/Intro.html
