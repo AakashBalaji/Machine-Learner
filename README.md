@@ -12,10 +12,10 @@ Also, the global vocabulary file contains two keys at the root level:
 1. The IntentPhrases key contains example phrases for invoking your services. Always include this key.
 1. The ParameterVocabularies key defines your app’s custom terms that apply to all users of your app and the intent parameters to which they apply. You may omit this key if you do not have any custom vocabulary terms.
 
-1. Download clone project to Xcode
-1. Open project and perform any imports, if required.
-1. Run the app on iphone, go to Settings-->Siri-->App Support and manually toggle the app to enable siri for the app.
-1. Tell Siri a name, and it will spell it out correctly, by fetching it from the downloaded VocabSync app.
+  1. Download clone project to Xcode
+  1. Open project and perform any imports, if required.
+  1. Run the app on iphone, go to Settings-->Siri-->App Support and manually toggle the app to enable siri for the app.
+  1. Tell Siri a name, and it will spell it out correctly, by fetching it from the downloaded VocabSync app.
 
 Unique Features: Users can use this application as a base for various other purposes, like: Calling and messaging a friend from a third party app, and just having a lively conversation with Siri!
 
