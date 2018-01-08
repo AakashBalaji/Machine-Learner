@@ -20,7 +20,7 @@ How To Use It?
 
 Unique Features: Users can use this application as a base for various other purposes, like: Calling and messaging a friend from a third party app, and just having a lively conversation with Siri!
 
-Limitations: Currently Apple has put some limitations on third applications using these intents, so The .plist file can only store a limited number of names(1-1000), i.e, after 20 to 30 names, Siri fails to accuratley fetch the names and recognize them.
+Limitations: Currently Apple has put some limitations on third applications using these intents, so The .plist file can only store a limited number of names(1-1000), i.e, after the first 20 to 30 names, Siri fails to accuratley fetch the names and recognize them.
 
 Resources: 
 1. Apple Developer Documentation: https://developer.apple.com/documentation
